@@ -1,3 +1,5 @@
+package Lesson1;
+
 import java.util.Scanner;
 
 import static helper.AppHelper.console;
